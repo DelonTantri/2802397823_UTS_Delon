@@ -94,7 +94,7 @@ def main():
         "\nHasilnya di bawah bos."
     )
     st.markdown(
-        "BTW hasilnya di bawah. 🫸🏻🫷🏻🙏🏻"
+        "BTW hasilnya di bawah."
     )
 
     try:
