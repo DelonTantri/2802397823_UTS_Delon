@@ -3,10 +3,9 @@ import joblib
 import pandas as pd
 import numpy as np
 
-MODEL_DIR = "artifacts"
-REG_MODEL_PATH = f"{MODEL_DIR}/best_regression_model.pkl"
-CLF_MODEL_PATH = f"{MODEL_DIR}/best_classification_model.pkl"
-PREPROCESSOR_PATH = f"{MODEL_DIR}/preprocessor.pkl"
+REG_MODEL_PATH = "best_regression_model.pkl"
+CLF_MODEL_PATH = "best_classification_model.pkl"
+PREPROCESSOR_PATH = "preprocessor.pkl"
 
 
 def load_models():
