@@ -90,7 +90,7 @@ def main():
 
     st.title("Student Placement & Salary Prediction")
     st.markdown(
-        "Use the sidebar to enter student profile values, then press **Predict** to get placement probability and salary estimate."
+        "Use the sidebar at the top left to enter student profile values, then press **Predict** to get placement probability and salary estimate."
     )
 
     try:
